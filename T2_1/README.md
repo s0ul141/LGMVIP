@@ -15,9 +15,6 @@ This project aims to conduct exploratory data analysis on a dataset of global te
 
 - **Microsoft Power BI:** A business analytics tool that enables users to create interactive dashboards and reports.
 - **Power Query:** A data transformation and mashup tool that allows users to connect, combine,
--
--
--
--
-- ![Dash_board](https://github.com/s0ul141/LGMVIP/assets/89154452/9d37a3d7-68e6-4b26-a838-27051c040cbe)
+
+![Dash_board](https://github.com/s0ul141/LGMVIP/assets/89154452/9d37a3d7-68e6-4b26-a838-27051c040cbe)
  and shape data from various sources.
